@@ -1,0 +1,2 @@
+ego_model,difficulty,lane_count,training_seed,n_episodes,eval_seed_start,eval_seed_end,ego_collision_rate,bv_collision_rate,reward_mean,reward_std,min_ttc_mean,min_ttc_median,min_ttc_valid_count,min_distance_mean,min_distance_median,cut_in_count_mean,lane_change_count_mean,episode_length_mean
+DQN-Ego,medium,2,17,100,10000,10099,0.41,0.17,17.98475056517716,30.33478629143674,0.3985704276564567,0.08750274515114512,100,5.022506060114214,4.0572583912650195,1.93,30.65,30.65

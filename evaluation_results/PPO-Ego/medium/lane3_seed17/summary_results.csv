@@ -1,0 +1,2 @@
+ego_model,difficulty,lane_count,training_seed,n_episodes,eval_seed_start,eval_seed_end,ego_collision_rate,bv_collision_rate,reward_mean,reward_std,min_ttc_mean,min_ttc_median,min_ttc_valid_count,min_distance_mean,min_distance_median,cut_in_count_mean,lane_change_count_mean,episode_length_mean
+PPO-Ego,medium,3,17,100,10000,10099,0.96,0.02,21.23324440248721,15.370973985870846,0.5203685840280503,0.10856629006854218,100,5.677025280141575,5.111394727635651,0.57,8.97,11.64

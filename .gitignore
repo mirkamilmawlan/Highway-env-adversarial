@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local caches / audit artifacts
+_audit/
+.preview-cache/
+.numba_cache/
+**/numba_cache/
+
+# TensorBoard / large run dumps
+*.tfevents.*
+runs/
+logs/
+**/events.out.tfevents.*
+PPO_BV_logs/
+
+# Jupyter
+.ipynb_checkpoints/

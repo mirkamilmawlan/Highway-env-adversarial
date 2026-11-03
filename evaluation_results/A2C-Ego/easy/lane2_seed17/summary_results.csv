@@ -1,0 +1,2 @@
+ego_model,difficulty,lane_count,training_seed,n_episodes,eval_seed_start,eval_seed_end,ego_collision_rate,bv_collision_rate,reward_mean,reward_std,min_ttc_mean,min_ttc_median,min_ttc_valid_count,min_distance_mean,min_distance_median,cut_in_count_mean,lane_change_count_mean,episode_length_mean
+A2C-Ego,easy,2,17,100,10000,10099,0.99,0.0,7.210244528998448,1.2305880161328828,0.03394502364117265,0.027454681161430794,100,4.394596530277827,4.213604383840444,0.76,0.0,18.58

@@ -1,0 +1,2 @@
+ego_model,difficulty,lane_count,training_seed,n_episodes,eval_seed_start,eval_seed_end,ego_collision_rate,bv_collision_rate,reward_mean,reward_std,min_ttc_mean,min_ttc_median,min_ttc_valid_count,min_distance_mean,min_distance_median,cut_in_count_mean,lane_change_count_mean,episode_length_mean
+IDM-Ego,medium,3,17,100,10000,10099,0.8,0.0,20.120247683544893,11.878744653278222,0.17007707560610735,0.11752960268323528,100,4.677591218999425,4.673515583498691,0.38,14.27,19.48
